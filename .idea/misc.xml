@@ -3,7 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_android_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_audiotrack_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_beach_access_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_brightness_5_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_cloud_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_face_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_hot_tub_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_live_tv_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_local_bar_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_local_florist_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_time_to_leave_24.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.15625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/memory_card.xml" value="0.16847826086956522" />
       </map>
     </option>
   </component>
