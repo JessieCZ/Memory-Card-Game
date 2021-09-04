@@ -2,5 +2,5 @@
 
 📱 An Android card memory game build in Kotlin
 
-Demo: 
+Demo: ![caption](app/play_demo.mov)
 
