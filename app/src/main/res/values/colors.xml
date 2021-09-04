@@ -10,4 +10,6 @@
     <color name="color_gray">#9E9D9D</color>
     <color name="color_progress_none">#BD3D34</color>
     <color name="color_progress_full">#298604</color>
+    <color name="menu_bar">#23499E</color>
+    <color name="moves_and_pairs">#EBC263</color>
 </resources>

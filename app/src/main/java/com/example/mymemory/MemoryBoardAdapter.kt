@@ -23,7 +23,7 @@ class MemoryBoardAdapter(
 
     companion object {
         private const val TAG = "MemoryBoardAdapter"
-        private const val MARGIN_SIZE = 10
+        private const val MARGIN_SIZE = 20
     }
 
     interface CardClickListener {
@@ -53,7 +53,7 @@ class MemoryBoardAdapter(
 
         fun bind(position: Int) {
             val memoryCard = cards[position]
-            imageButton.setImageResource(if (memoryCard.isFaceUp) memoryCard.identifier else R.drawable.ic_launcher_background)
+            imageButton.setImageResource(if (memoryCard.isFaceUp) memoryCard.identifier else R.drawable.ic_baseline_help_center_24)
             // Takiing click action on card
 
             imageButton.alpha = if (memoryCard.isMatched) .4f else 1.0f

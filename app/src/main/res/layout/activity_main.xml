@@ -11,7 +11,7 @@
         android:id="@+id/IIGameInfo"
         android:layout_width="380dp"
         android:layout_height="73dp"
-        android:background="?attr/colorSecondaryVariant"
+        android:background="#EB925B"
         android:orientation="horizontal"
         android:padding="8dp"
         android:paddingStart="8dp"

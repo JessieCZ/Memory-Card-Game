@@ -16,9 +16,12 @@
 
         <ImageButton
             android:id="@+id/imageButton"
+            style="@style/Widget.AppCompat.ImageButton"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="@color/white"
-            app:srcCompat="@drawable/ic_launcher_background" />
+            android:scaleType="centerCrop"
+            tools:ignore="SpeakableTextPresentCheck"
+            tools:src ="@drawable/ic_baseline_help_center_24" />
     </androidx.cardview.widget.CardView>
 </LinearLayout>
