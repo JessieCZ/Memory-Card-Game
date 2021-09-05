@@ -7,5 +7,5 @@
 Demo: 
 
 
-![](play_demo.gif)
+![](demo.gif)
 
